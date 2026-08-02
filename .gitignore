@@ -62,6 +62,7 @@ slurm-*.out
 .idea/
 *.swp
 *.swo
+.trae/
 
 # OS
 .DS_Store
